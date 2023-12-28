@@ -141,12 +141,12 @@ class MyApp extends StatelessWidget {
                           child: ElevatedButton(
                             onPressed: () {},
                             style: ElevatedButton.styleFrom(
-                              primary: Colors.blue, // Thay đổi màu nền của ElevatedButton thành màu xanh
+                              primary: Colors.blue,
                             ),
                             child: Text(
                               'Đăng nhập',
                               style: TextStyle(
-                                color: Colors.white, // Thay đổi màu chữ của Text thành màu trắng
+                                color: Colors.white, 
                               ),
                             ),
                           ),
